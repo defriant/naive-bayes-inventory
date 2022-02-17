@@ -4,8 +4,8 @@
     <div class="col-md-6">
         <div class="panel panel-headline">
             <div class="panel-heading">
-                <h3 class="panel-title">Classifier</h3>
-                <p class="panel-subtitle">Klasifikasi restok produk (Yes/No)</p>
+                <h3 class="panel-title">Perhitungan</h3>
+                <p class="panel-subtitle">Perhitungan restok produk (Yes/No)</p>
             </div>
             <div class="panel-body">
                 <p>Produk</p>
@@ -25,7 +25,7 @@
             </div>
             <div class="panel-footer">
                 <div class="row">
-                    <div class="text-right"><button id="btn-klasifikasi-data" class="btn btn-primary">Mulai Klasifikasi</button></div>
+                    <div class="text-right"><button id="btn-klasifikasi-data" class="btn btn-primary">Mulai Perhitungan</button></div>
                 </div>
             </div>
         </div>

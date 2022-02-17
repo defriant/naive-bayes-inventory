@@ -173,7 +173,7 @@ $('#btn-klasifikasi-data').on('click', function(){
                                                             </tbody>
                                                         </table>
                                                         <br>
-                                                        <h4 style="padding-left: 2rem">Hasil Klasifikasi &nbsp;&nbsp; <i class="fas fa-chevron-right"></i> &nbsp;&nbsp; ${ result.data.result }</h4>
+                                                        <h4 style="padding-left: 2rem">Hasil Perhitungan &nbsp;&nbsp; <i class="fas fa-chevron-right"></i> &nbsp;&nbsp; ${ result.data.result }</h4>
                                                     </div>
                                                 </div>
                                                 <br><br>`)

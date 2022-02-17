@@ -73,7 +73,7 @@
                             <a href="/stok-produk" class="{{ Request::is('stok-produk') ? 'active' : '' }}"><i class="fal fa-tasks"></i> <span>Stok Produk</span></a>
                         </li>
                         <li>
-                            <a href="/classifier" class="{{ Request::is('classifier') ? 'active' : '' }}"><i class="fal fa-users-class"></i> <span>Classifier</span></a>
+                            <a href="/classifier" class="{{ Request::is('classifier') ? 'active' : '' }}"><i class="fal fa-calculator-alt"></i> <span>Perhitungan</span></a>
                         </li>
                     </ul>
                 </nav>
